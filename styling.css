@@ -1,0 +1,19 @@
+.circles {
+  border:solid pink 1px;
+  width:1cm;
+  height:1cm;
+  border-radius: 25px;
+  position:absolute;
+
+
+  /*margin-left: 5cm;
+  margin-top: 4cm;*/
+}
+
+
+
+#myCanvas {
+  position:relative;
+  margin: 0 auto;
+      z-index: -1;
+}
